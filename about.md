@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a full stack developer based in Ottawa, Canada. I love working on different areas of software development, from gathering requirements with clients to designing front-end user interfaces to implementing back-end systems. I’m passionate about what I do and always looking to learn something new.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have worked with all sorts of technologies but I am most familiar with the following stack: Java, Spring, Javascript, JQuery, Oracle DB.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Other technologies that I have used throughout my career includes:
+Back-end: Struts, C#, .NET, Ruby, Ruby on Rails
+Front-end: React, Redux, Bootstrap, HTML, CSS
+Database: PostgreSQL, MS SQL Server
+If you’re interested in having me on your team or work on a project, I would love to hear about it. Feel free to email me ralph.bolo(at)gmail.com .
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
+
