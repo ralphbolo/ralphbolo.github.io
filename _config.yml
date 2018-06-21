@@ -16,11 +16,13 @@
 title: Ralph Bolo
 email: ralph.bolo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ralph Bolo. Software developer based in Ottawa, Canada. I code in Java during the day and Ruby during my free time.  
+  Software developer based in Ottawa, Canada. Currently, I code in Java during work and Ruby outside of work.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ralphbolo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bolonomicz
 github_username:  ralphbolo
+linkedin_username: ralphbolo
+google_analytics: UA-59462190-2
 
 # Build settings
 markdown: kramdown
