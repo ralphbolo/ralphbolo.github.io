@@ -2,7 +2,7 @@
 layout: post
 title:  "Rebuilding Rails: Introduction"
 date:   2018-06-12 21:12:39 -0400
-categories: Code
+categories: Rails
 ---
  
 To people not familiar with Rails, it will look like there are a lot of magic and wizardry involved with developing web apps and APIs with Rails. A lot of trusting the framework to work. Running a couple of commands in the terminal will result in a (very basic) CRUD web app that can be easily deployed. A coder can easily develop an application without understanding what is happening. I wanted to know how it is put together and how it all works together. I was curious about the inner workings of Rails. 
